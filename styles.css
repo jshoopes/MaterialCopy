@@ -1,0 +1,64 @@
+body {
+
+}
+
+nav {
+  align-items: center;
+  height: 16em;
+  background-color: #00897B;
+  color: white;
+}
+
+.hamb_search {
+  display: -webkit-flex;
+  position: fixed;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.material-button {
+  background: transparent;
+  border: none;
+  color: white;
+  width: 24px;
+  height: 24px;
+  margin: 25px;
+  z-index: 500;
+}
+
+.text {
+  font-size: 56px;
+  margin: 0;
+  width: auto;
+  height: 100%;
+}
+
+.heading {
+  margin: 0;
+  padding: 9% 9% 0 9%;
+}
+
+section {
+  margin: 0 9% 0 9%;
+  padding-top: 5%;
+}
+
+.title {
+  font-size: 35px;
+  color: #00897B;
+  margin: 0 0 25px 0;
+  padding: 0;
+}
+
+.summary {
+  font-size: 20px;
+  margin: 0 0 25px 0;
+  padding: 0;
+  width: 70%;
+}
+
+.paragraph {
+  font-size: 14px;
+  margin: 0 0 25px 0;
+  padding: 0;
+}
